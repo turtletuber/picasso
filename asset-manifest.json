@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/picasso/static/css/main.87f577c7.chunk.css",
+    "main.js": "/picasso/static/js/main.8d3f05dc.chunk.js",
+    "main.js.map": "/picasso/static/js/main.8d3f05dc.chunk.js.map",
+    "runtime-main.js": "/picasso/static/js/runtime-main.79e99aec.js",
+    "runtime-main.js.map": "/picasso/static/js/runtime-main.79e99aec.js.map",
+    "static/js/2.39de4a7d.chunk.js": "/picasso/static/js/2.39de4a7d.chunk.js",
+    "static/js/2.39de4a7d.chunk.js.map": "/picasso/static/js/2.39de4a7d.chunk.js.map",
+    "index.html": "/picasso/index.html",
+    "static/css/main.87f577c7.chunk.css.map": "/picasso/static/css/main.87f577c7.chunk.css.map",
+    "static/js/2.39de4a7d.chunk.js.LICENSE.txt": "/picasso/static/js/2.39de4a7d.chunk.js.LICENSE.txt",
+    "static/media/bookmark_border.7ab6e61e.svg": "/picasso/static/media/bookmark_border.7ab6e61e.svg",
+    "static/media/bookmark_border.da01c847.svg": "/picasso/static/media/bookmark_border.da01c847.svg",
+    "static/media/logo.f5577065.svg": "/picasso/static/media/logo.f5577065.svg",
+    "static/media/note_add.deaa3c98.svg": "/picasso/static/media/note_add.deaa3c98.svg",
+    "static/media/search.c49eb908.svg": "/picasso/static/media/search.c49eb908.svg",
+    "static/media/volume_up.f92f4a65.svg": "/picasso/static/media/volume_up.f92f4a65.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.79e99aec.js",
+    "static/js/2.39de4a7d.chunk.js",
+    "static/css/main.87f577c7.chunk.css",
+    "static/js/main.8d3f05dc.chunk.js"
+  ]
+}
